@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**AbuGhaliML-1/AbuGhaliML-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Ali Eiad Abu Ghali**, a passionate learner in **Data Science** and **Artificial Intelligence**.  
 
-Here are some ideas to get you started:
+![Profile Picture](./59cb0155-d9be-4092-890a-7f2bcb9148e1.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- Enthusiastic about Data Science and AI technologies
+- Always learning new tools and techniques
+- Developing my skills in Python and data analysis
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** Python, JavaScript
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Development Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📊 Projects
+
+### 1. **Sales Data Analysis**
+Analyzed a dataset of company sales to extract insights and visualize trends.
+- Used **Pandas** and **NumPy** for data cleaning and manipulation
+- Created visualizations using **Matplotlib** and **Seaborn**
+- Insights included best-selling products, monthly trends, and revenue analysis
+
+**Repository link:** [Sales Data Analysis](https://github.com/AbuGhaliML-1/sales-data-analysis)  
+
+---
+
+### 2. **Customer Churn Prediction**
+Built a machine learning model to predict customer churn for a telecom company.
+- Cleaned and prepared the dataset using **Pandas**
+- Built predictive models using **Scikit-learn** (Logistic Regression, Random Forest)
+- Evaluated model performance and created a dashboard with **Matplotlib**
+
+**Repository link:** [Customer Churn Prediction](https://github.com/AbuGhaliML-1/customer-churn-prediction)  
+
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/ali-abo-ghali-7b4242342)  
+- [GitHub](https://github.com/AbuGhaliML-1)
+
+---
+
+## 💡 Note
+I am always looking for new challenges and opportunities to improve my programming and data analysis skills. Feel free to connect if you want to collaborate on projects!
+

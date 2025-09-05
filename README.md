@@ -2,7 +2,8 @@
 
 I’m **Ali Eiad Abu Ghali**, a passionate learner in **Data Science** and **Artificial Intelligence**.  
 
-![Profile Picture](./59cb0155-d9be-4092-890a-7f2bcb9148e1.png)
+![Profile Picture](./<img width="1536" height="1024" alt="ChatGPT Image Sep 5, 2025, 02_07_15 PM" src="https://github.com/user-attachments/assets/c71e4526-eb5b-41c9-a92f-d49e9d91999a" />
+)
 
 ---
 
@@ -50,4 +51,3 @@ Built a machine learning model to predict customer churn for a telecom company.
 
 ## 💡 Note
 I am always looking for new challenges and opportunities to improve my programming and data analysis skills. Feel free to connect if you want to collaborate on projects!
-
